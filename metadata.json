@@ -1,0 +1,6 @@
+{
+  "name": "VyaparSetu 43B",
+  "description": "Editorial MSME invoice audit, Section 37(2)(g) & Section 43B(h) statutory compliance, and TReDS working-capital copilot built for Indore's Pithampur & Sanwer Road clusters and Bharat 2036.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
